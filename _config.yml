@@ -1,16 +1,16 @@
-typography_spectrum: 0.7983536245301366
+typography_spectrum: 0.49890365498140454
 color:
-  brandStrength: 0.11264681210741401
-  lightness: 0.125704035628587
-  saturation: 0.436325516551733
-  rhythmicContrast: 0.9756489461287856
+  brandStrength: 0.38497908180579543
+  lightness: 0.03798394184559584
+  saturation: 0.8695594375021756
+  rhythmicContrast: 0.04404097190126777
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.1645447756163776
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.7026857722084969
 author:
   name: Charles C Vincent
   email: cvin@arquitetos.com
