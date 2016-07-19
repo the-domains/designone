@@ -6,9 +6,9 @@ color:
   saturation: 0.436325516551733
   rhythmicContrast: 0.9756489461287856
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: design.one
