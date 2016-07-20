@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-20T01:43:19.865Z'
+datePublished: '2016-07-20T01:43:26.205Z'
 sourcePath: _posts/2016-07-19-vivermetropole-2015.md
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f8e901b-6403-467b-a750-f9ce1585c1c2.jpg
 author: []
-dateModified: '2016-07-20T01:43:00.793Z'
+dateModified: '2016-07-20T01:43:24.133Z'
 title: ViverMetrópole 2015
 description: >-
   A montagem dos painéis não se deu exatamente da forma mais fluida. Falta de
   planejamento? Erros de cálculo na rigidez da estrutura? Acho que tudo isso e
   mais um pouco. Mas a experiência de projeto seguido de fabricação e montagem
   rendeu alguns momentos insubstituiveis.
-starred: false
+starred: true
 _type: MediaObject
 
 ---
