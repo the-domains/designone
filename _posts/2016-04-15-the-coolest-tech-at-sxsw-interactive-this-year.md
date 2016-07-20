@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T23:27:30.459Z'
+datePublished: '2016-07-20T01:32:11.975Z'
 sourcePath: _posts/2016-04-15-the-coolest-tech-at-sxsw-interactive-this-year.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
   - live-streaming
 related: []
 author: []
-dateModified: '2016-07-19T23:26:45.455Z'
+dateModified: '2016-07-20T00:14:41.242Z'
 title: Spaceframe design
 app_links:
   - namespace: twitter
@@ -44,6 +44,6 @@ _type: MediaObject
 ## Spaceframe design
 ![Ball node design](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6eba8ab0-4ace-4ed2-9de0-51ed420a0df7.png)
 ![Sketches](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08ae012d-114a-4015-82b5-88cef3bc3013.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47595e5e-7e3a-43b7-9831-a5e833a433b7.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e611dc-0733-4d41-a925-eb889c5367ac.png)
+![Grasshopper parametric modeling](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47595e5e-7e3a-43b7-9831-a5e833a433b7.png)
+![GrassHopper parametric modeling](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e611dc-0733-4d41-a925-eb889c5367ac.png)
 ![Test render](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c3c7164-6cf6-4a57-b32d-1f44330abddf.png)
