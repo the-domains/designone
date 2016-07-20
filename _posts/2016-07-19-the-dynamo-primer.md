@@ -28,10 +28,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://dynamoprimer.com/'
 title: The Dynamo Primer
-datePublished: '2016-07-19T23:35:01.042Z'
-dateModified: '2016-07-19T23:34:48.916Z'
-starred: false
+datePublished: '2016-07-20T01:38:59.433Z'
+dateModified: '2016-07-20T01:38:59.100Z'
 sourcePath: _posts/2016-07-19-the-dynamo-primer.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
