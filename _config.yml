@@ -1,4 +1,4 @@
-typography_spectrum: 0.14887355640530586
+typography_spectrum: 0.5433807701338083
 color:
   brandStrength: 0.16119669773615897
   lightness: 0.36603546771220863
@@ -10,7 +10,7 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-layout_spectrum: 0.47189321485348046
+layout_spectrum: 0.4033522617537528
 author:
   name: Charles C Vincent
   email: cvin@arquitetos.com
