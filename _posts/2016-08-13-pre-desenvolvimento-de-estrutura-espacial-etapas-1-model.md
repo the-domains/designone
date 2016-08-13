@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-13T17:12:40.166Z'
+datePublished: '2016-08-13T17:23:56.002Z'
 sourcePath: _posts/2016-08-13-pre-desenvolvimento-de-estrutura-espacial-etapas-1-model.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-13T17:12:39.256Z'
+dateModified: '2016-08-13T17:23:55.295Z'
 title: SpaceFrame
 publisher: {}
 description: Piramidal Space Frame formed upon an irregular surface.
@@ -20,7 +20,7 @@ Etapas:
 1\. Modelagem paramétrica  
 2\. Desenvolvimento dos componentes estruturais  
 3\. Exportação de nós e barras para análise no ANSYS  
-4\. Simulação FEA usando Rhio+Grasshopper+Karamba  
+4\. Simulação FEA usando Rhino+Grasshopper+Karamba  
 5\. Construção de modelo em escala 1:50, Aluminio, para ensaio de carregamento e ruptura.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b7f6fd8-5517-494c-8b65-6b03af8b6bed.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2771a217-7dc7-4dee-a19c-1fc86d08c4bc.png)
