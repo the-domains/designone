@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-13T17:07:17.040Z'
+datePublished: '2016-08-13T17:12:24.604Z'
 sourcePath: _posts/2016-08-13-pre-desenvolvimento-de-estrutura-espacial-etapas-1-model.md
 author: []
 via: {}
-dateModified: '2016-08-13T17:07:16.085Z'
+dateModified: '2016-08-13T17:12:23.577Z'
 title: SpaceFrame
 publisher: {}
 description: Piramidal Space Frame formed upon an irregular surface.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
